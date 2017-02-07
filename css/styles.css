@@ -15,6 +15,18 @@ h1 {
 }
 /** Components **/
 
+.float-left {
+  float:left;
+}
+
+.float-right {
+  float:right;
+}
+
+img {
+  padding: 25px;
+}
+
 body {
   background-color: #FFEB3B;
   text-align: center;
