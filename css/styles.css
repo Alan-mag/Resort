@@ -1,4 +1,25 @@
+/** Style for Resort **/
+
+
+/** Typography **/
 h1 {
   font-family: helvetica neue;
   color: #0085a1;
 }
+
+/** Components **/
+
+body {
+  /*background-color: #FFC107;*/
+  text-align: center;
+}
+
+li {
+  /*color: white;*/
+  list-style-type: none;
+}
+
+ li a {
+   text-decoration: none;
+   /*color: white;*/
+ }
