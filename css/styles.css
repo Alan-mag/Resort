@@ -29,3 +29,8 @@ li {
    color: #8d17ab;
    text-decoration: none;
  }
+
+ p.intro {
+   font-weight: bold;
+   font-style: italic;
+ }
