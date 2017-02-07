@@ -4,22 +4,28 @@
 /** Typography **/
 h1 {
   font-family: helvetica neue;
-  color: #0085a1;
+  color: #09d06a;
 }
 
 /** Components **/
 
 body {
-  /*background-color: #FFC107;*/
+  background-color: #FFEB3B;
   text-align: center;
+  font-family: futura;
 }
 
 li {
-  /*color: white;*/
+  color: #0095ff;
   list-style-type: none;
 }
 
  li a {
    text-decoration: none;
-   /*color: white;*/
+   color: #0095ff;
+ }
+
+ #homepage-link a {
+   color: #8d17ab;
+   text-decoration: none;
  }
