@@ -2,7 +2,7 @@
 
 ####
 
-#### By Alan James
+#### 
 
 ## Description
 
